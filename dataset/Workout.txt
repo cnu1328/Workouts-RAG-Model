@@ -1,0 +1,50 @@
+Input 1:
+
+1. Fitness Level - Intermediate 
+2. Workout Frequency - 2-3 days per week
+3. Available Equipment - Full Gym Access
+4. Primary Goal - Genral Fitness
+5. Workout Type - Functional fitness
+6. Specific Equipment Details - pull-up bar, dumbbells 5-30lbs, kettlebells, resistance bands
+7. Session Duration - 15-30 minutes
+8. Focus Areas - arms, core, legs, chest
+9. Health Limitation - None
+
+
+1. Fitness Level 
+Beginner
+Intermediate 
+Advanced
+2. Workout Frequency 
+2-3 days per week
+3-4 days per week
+4-5 days per week
+5-6 days per week
+3. Available Equipment 
+None
+Minimal (Dumbbles/Resistance bands)
+Home Gym Setup
+Full Gym Access
+4. Primary Goal 
+Lose Weight
+Build Muscle
+Increase Strength
+Improve Endurance
+Genral Fitness
+5. Workout Type 
+Strength Training
+High Intensity Interval Training
+Functional fitness	
+Body Weight 
+Mixed
+6. Specific Equipment Details 
+List your specific equipment (e.g., 'dumbbells 5-30lbs, kettlebells, resistance bands, pull-up bar')
+7. Session Duration 
+15-30 minutes
+30-45 minutes
+45-60 minutes
+60+ minutes
+8. Focus Areas 
+E.g., arms, core, legs, etc.
+9. Health Limitation (Optional) 
+Any injuries or health conditions to consider…
